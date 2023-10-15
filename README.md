@@ -7,7 +7,7 @@
 
 
 ## 💫 About Me:
-🌱 I’m currently learning JavaScript, React and Next Js<br><br>💬 Ask me about Web Development, Java and Back-end { Express, MongoDB } <br><br>📫 How to reach me anilsahudev26@gmail.com
+🌱 I’m currently learning JavaScript, React and Next Js<br><br>💬 Ask me about Web Development, Java and Back-end { MySQL, Express, MongoDB } <br><br>📫 How to reach me anilsahudev26@gmail.com
 
                                                                                                                                                                                                        
 
